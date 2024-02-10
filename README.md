@@ -9,7 +9,7 @@ This project is built using [Nest.js](https://nestjs.com/), a framework for buil
 2. Clone the repository:
 
     ```bash
-    git clone <repository-url>
+    git clone <https://github.com/1D71s/test-server-hostform>
     ```
 
 3. Navigate to the project directory:
